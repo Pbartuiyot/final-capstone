@@ -1,4 +1,4 @@
-# final-capstone
+# Final-Capstone
 Kipkorir Pbartuiyot Biegon
 Captone Project
 Sentiment Analysis of Airbnb Reviews to Inform Dynamic Pricing for Listings in Kenya
